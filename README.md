@@ -31,6 +31,13 @@ http://imgur.com/a/L8n3r
 
 Then double click the LampSolver.jar file with the input file named 'input.txt' at the same directory and wait the for answer.
 
+## F.A.Q.
+1) What it is the lamp number i should use?
+  Doesnt matter. The problem is not about lamps and numbers but switchs and logical NOT operations. Fix a number for each lamp and it should run just fine.
+
+2)Ok, i have the result, what to do next?
+  Just turn ON or OFF the buttons! It is that easy.
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
