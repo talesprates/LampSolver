@@ -40,7 +40,7 @@ Doesnt matter. The problem is not about lamps and numbers but switchs and logica
 
 Just turn ON or OFF the buttons! It is that easy.
 
-*3) The program is not giving me any answer. Is it broken?
+* 3) The program is not giving me any answer. Is it broken?
 
 No! We tested the program heavily (over 20 cases).
 Check if:
