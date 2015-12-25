@@ -36,9 +36,17 @@ Then double click the LampSolver.jar file with the input file named 'input.txt' 
 
 Doesnt matter. The problem is not about lamps and numbers but switchs and logical NOT operations. Fix a number for each lamp and it should run just fine. You can use [THIS](http://imgur.com/nNdTWnb).
 
-* 2)Ok, i have the result, what to do next?
+* 2) Ok, i have the result, what to do next?
 
 Just turn ON or OFF the buttons! It is that easy.
+
+*3) The program is not giving me any answer. Is it broken?
+
+No! We tested the program heavily (over 20 cases).
+Check if:
+  * The text file is right.
+  * (CRITICAL) Your visual lecture of lamps (and numbering) is right.
+  * All the switches turned on and off at least once. Its easy to see the lamps affected if you follow this process: Turn on >> See the lamps >> Turn off >> Go to next switch.
 
 ## Contributing
 1. Fork it!
