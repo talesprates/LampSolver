@@ -5,17 +5,15 @@ This project was made to help battlefield 4 community to solve the lamp puzzle o
 ## Installation
 No installation needed. Just need java jre installed.
 ## Usage
-First of all you need to follow this guide http://imgur.com/a/JHUQx and get all 7 switches and witch lamps they effect. Its very important
-to enumarate the lamps and follow the same enumaration until the end of the process. These numbers are used to solve the puzzle using this
-algorithm. Once you collected initial lamp configuration and the 7 switches you may change the file 'input.txt' with your own data.
-1. The first line represents the lamps that are lit at the start of the round.
-2. The second line represents the Temple switch and which lamps it effects.
-3. The third line represents the Furnace switch and which lamps it effects.
-4. The forth line represents the Tree switch and which lamps it effects.
-5. The fifth line represents the Pier switch and which lamps it effects.
-6. The sixth line represents the Waterfall switch and which lamps it effects.
-7. The seventh line represents the Rock switch and which lamps it effects.
-8. The eighth line represents the Pagoda switch and which lamps it effects.
+First of all you need to follow this guide http://imgur.com/a/JHUQx and get all 7 switches and which lamps they effect. It's very important to enumarate the lamps and follow the same enumaration until the end of the process. These numbers are used to solve the puzzle using this algorithm. Once you collected the initial lamp configuration and all 7 switches you may change the file 'input.txt' with your own data, following this schema:
+* The first line represents the lamps that are lit at the start of the round.
+* The second line represents the Temple switch and which lamps it effects.
+* The third line represents the Furnace switch and which lamps it effects.
+* The forth line represents the Tree switch and which lamps it effects.
+* The fifth line represents the Pier switch and which lamps it effects.
+* The sixth line represents the Waterfall switch and which lamps it effects.
+* The seventh line represents the Rock switch and which lamps it effects.
+* The eighth line represents the Pagoda switch and which lamps it effects.
 
 ### Example
 * Default lamps: 9 17
