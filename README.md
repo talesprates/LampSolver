@@ -34,7 +34,7 @@ Then double click the LampSolver.jar file with the input file named 'input.txt' 
 ## F.A.Q.
 1) What it is the lamp number i should use?
 
-Doesnt matter. The problem is not about lamps and numbers but switchs and logical NOT operations. Fix a number for each lamp and it should run just fine.
+Doesnt matter. The problem is not about lamps and numbers but switchs and logical NOT operations. Fix a number for each lamp and it should run just fine. You can use [THIS](http://imgur.com/nNdTWnb).
 
 2)Ok, i have the result, what to do next?
 
@@ -53,7 +53,3 @@ Chap0linColorado of [BTCO] BOTECO bf platoon.
 
 ## TODO
 Anyone who wants to improve this community tool and make a more intuitive GUI, please do it. I dont have this kind of knowledge.
-
-</content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
